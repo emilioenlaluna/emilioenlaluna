@@ -11,7 +11,7 @@ ___
 
 <p align="right">
   <img alt="Estadísticas de GitHub"  src="https://github-readme-stats.vercel.app/api?username=emilioenlaluna&show_icons=true&theme=dark&line_height=27&count_private=true"/>
-  <img alt="Lenguajes Usados"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioenlaluna&langs_count=8,&theme=dark&layout=compact"/>
+  <img alt="Lenguajes Usados"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioenlaluna,&theme=dark&layout=compact"/>
 </p>
 
 ___
