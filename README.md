@@ -1,10 +1,12 @@
-<a href="https://github.com/emilioenlaluna" target="_blank"><img align="left" alt="gato" width="280px" src="https://th.bing.com/th/id/R.71a1cf6f3ed6128b6590e1d2fcdf8ae9?rik=HTuJpPA93LxnQw&pid=ImgRaw&r=0"/></a>
+<a href="https://github.com/emilioenlaluna" target="_blank"><img align="left" alt="gato" width="280px" src="https://user-images.githubusercontent.com/74982686/219550660-00a16c33-faae-4d19-aa81-f045e770778c.png"/></a>
 
 #  😺 Bienvenido
 
 Mi nombre es **Emilio Luna**, soy un desarrollador de **software** aficionado a los **gatos** y el **diseño**. Me encanta la programación Web. Actualmente estoy aprendiendo sobre **Web Frameworks** e **Inteligencia Artificial**.
 
 [![GitHub](https://img.shields.io/github/followers/emilioenlaluna?label=follow&style=social)](https://github.com/emilioenlaluna)
+
+
 <br>
 
 ___
