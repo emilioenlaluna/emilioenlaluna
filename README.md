@@ -11,11 +11,9 @@ Mi nombre es **Emilio Luna**, soy un desarrollador de **software** aficionado a 
 
 ___
 
-<p align="left">
-  <img alt="Estadísticas de GitHub"  src="https://github-readme-stats.vercel.app/api?username=emilioenlaluna&show_icons=true&theme=dark&line_height=27&count_private=true"/>
+ <img alt="Estadísticas de GitHub"  src="https://github-readme-stats.vercel.app/api?username=emilioenlaluna&show_icons=true&theme=dark&line_height=27&count_private=true"/>
   <img alt="Lenguajes Usados"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioenlaluna&theme=dark&layout=compact"/>
   
-</p>
 
 <img alt="Lenguajes Usados"  src="https://github-profile-trophy.vercel.app/?username=emilioenlaluna"/>
 
