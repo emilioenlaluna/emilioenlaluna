@@ -4,6 +4,8 @@
 
 Mi nombre es **Emilio Luna**, soy un desarrollador de **software** aficionado a los **gatos** y el **diseño**. Me encanta la programación Web. Actualmente estoy aprendiendo sobre **Web Frameworks** e **Inteligencia Artificial**.
 
+<br>
+
 [![GitHub](https://img.shields.io/github/followers/emilioenlaluna?label=follow&style=social)](https://github.com/emilioenlaluna)
 
 
@@ -33,23 +35,20 @@ ___
 <a href="https://www.instagram.com/emilioenlaluna" target="_blank"><img align="left" alt="Instagram" width="32px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png"/></a>
 <a href="https://www.linkedin.com/in/emilioenlaluna" target="_blank"><img align="left" alt="LinkedIn" width="32px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/square-linkedin-512.png"/></a>
 <a href="https://www.youtube.com/channel/UC9dYnRzUeg7-3FeP63SPVJg" target="_blank"><img align="left" alt="YouTube" width="38px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube_colored_svg-512.png"/></a>
+___
+<br>
 
-
-## 💳 Github Profile Summary Card
-<p align="center">
+### 💳Activity
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emilioenlaluna&theme=vue"/>
  
 </p>
 
-## 📟 GitHub Stats
-<p align="center">
-	 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilioenlaluna&show_icons=true&theme=vue"/>
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=emilioenlaluna&show_icons=true&theme=vue" />
-	
-</p>
+<br>
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
+___
 
 <img src="https://raw.githubusercontent.com/validity-check/validity-check/output/github-contribution-grid-snake.svg">
