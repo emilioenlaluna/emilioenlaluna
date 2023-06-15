@@ -56,4 +56,4 @@ ___
 
 ___
 
-<img src="https://raw.githubusercontent.com/validity-check/validity-check/output/github-contribution-grid-snake.svg">
+<img src="github-contribution-grid-snake.svg">
