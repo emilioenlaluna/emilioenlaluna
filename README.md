@@ -24,8 +24,8 @@ ___
 ___
 
 #### 🌐   Revisa mi [portafolio de proyectos]() (En construcción).
-#### 📚   Revisa mi [blog personal]() (Próximamente).
-#### 📧   Mándame un correo a [emilioluna407@gmail.com]().
+#### 📚   Revisa mi [blog personal](https://emilioenlaluna-blog.web.app) (emilioenlaluna-blog.web).
+#### 📧   Mándame un correo a [emilioenlaluna@gmail.com]().
 #### 💬   Mándame un [mensaje privado]().
 
 ___
